@@ -28,9 +28,9 @@ This work fits the **2-parameter** Dainotti relation (log L_X vs. log T*_X only)
 6. Compare Hubble-diagram residuals between the global fit and the per-bin fits (Figure 5), the project's main practically relevant result.
    
 ## Repo contents
-- 'dainotti_evolution.ipynb' - full analysis notebook
-- 'data/Platinum_sample.csv' - parsed Table A1 data
-- 'figures/' - all output figures (PDF + PNG)
+- ['dainotti_evolution.ipynb'](dainotti_evolution.ipynb) - full analysis notebook
+- [`data/Platinum_sample.csv`](data/Platinum_sample.csv) - parsed Table A1 data
+- [`figures/`](figures) - all output figures (PDF + PNG)
 
    
 ## Requirements
